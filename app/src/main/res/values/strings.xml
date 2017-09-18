@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test l10n i10n</string>
+    <string name="country">Default</string>
+    <string name="swear">Shit</string>
+    <string name="language">English</string>
+
+</resources>
